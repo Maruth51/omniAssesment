@@ -1,2 +1,0 @@
-# omniAssesment
-Created with CodeSandbox
